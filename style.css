@@ -1,11 +1,10 @@
-:root{
-    --background-universal: gray;
-}
-
+    :root{
+        --background-universal: gray;
+    }
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
-    background-color: var(--background);
+    background-color: var(--background-universal);
 }
