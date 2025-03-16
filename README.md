@@ -1,10 +1,11 @@
 # Comunidade Cristã de Ananindeua
-## Ideia do Projeto:]
+## Ideia do Projeto:
 Este README descreve a estrutura de um site para a Comunidade Cristã de Ananindeua, visando fornecer uma navegação clara e acessível para os membros e visitantes da igreja. A página inicial apresenta uma mensagem de boas-vindas, um versículo diário e links para ações rápidas como participação, doações e contato. A seção "Sobre Nós" detalha a história, missão, visão e liderança da igreja. A programação informa os horários dos cultos e eventos, enquanto a seção "Sermões e Recursos" oferece conteúdos edificantes como pregações gravadas, artigos e devocionais.
 
 A área "Como Participar" fornece informações para quem deseja visitar, se voluntariar ou se tornar membro. A página de Doações explica os métodos de contribuição e como o dinheiro é utilizado. A seção de Contato inclui um formulário e dados da igreja, além de links para redes sociais. A Galeria exibe fotos, vídeos e testemunhos. A página de Eventos lista eventos futuros e permite inscrições, enquanto inclusões extras como uma Newsletter e uma Área de Membros oferecem comunicação contínua e conteúdo exclusivo. A área de Ações Sociais informa sobre projetos comunitários e como os membros podem se engajar.
 
 <hr>
+
 1. Página Inicial
 - Mensagem de Boas-vindas: Uma breve mensagem calorosa que represente os valores e o propósito da igreja.
 - Versículo do Dia: Um versículo bíblico inspirador que muda regularmente.
