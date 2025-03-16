@@ -1,3 +1,4 @@
+# Comunidade Cristã de Ananindeua
 1. Página Inicial
 - Mensagem de Boas-vindas: Uma breve mensagem calorosa que represente os valores e o propósito da igreja.
 - Versículo do Dia: Um versículo bíblico inspirador que muda regularmente.
