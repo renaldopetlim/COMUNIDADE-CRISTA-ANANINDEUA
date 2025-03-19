@@ -8,3 +8,11 @@
     scroll-behavior: smooth;
     background-color: var(--background-universal);
 }
+    /* HEADER */
+    header{
+        padding: 20px 0 20px 0;
+    }
+        header img{
+            padding: 0 0 0 20px;
+            width: 90px;
+        }
