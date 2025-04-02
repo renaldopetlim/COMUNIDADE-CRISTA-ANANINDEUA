@@ -9,7 +9,7 @@
     background-color: var(--background-universal);
 }
     /* HEADER */
-    header{}
+    header
         header img{
             width: 90px;
         }
