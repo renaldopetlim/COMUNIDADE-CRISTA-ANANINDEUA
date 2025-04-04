@@ -16,10 +16,13 @@
         }
 
     /* FOOTER */
-    footer
-        .footer-line{
-            color: black;
-        }
+    .footer-line{
+        color: black;
+    }
+    footer{
+        display: flex;
+    }
+
         .footer-text{
             font-size: 12px;
         }
