@@ -1,5 +1,7 @@
     :root{
         --background-universal: gray;
+        --footer-background: black;
+        --footer-text: white;
     }
 *{
     margin: 0;
@@ -12,14 +14,38 @@
     /* HEADER */
 
     /* FOOTER */
-    .footer-line
-    footer{
+    #footer{
+        background-color: var(--footer-background);
         display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 28px;
     }
-        .footer-text{
-            font-size: 12px;
-        }
-        .footer-links{
+        #footer div{
             display: flex;
-            font-size: 12px;
         }
+            #footer p{
+                color: var(--footer-text);
+                background-color: var(--footer-background);
+            }
+                #footer p a{
+                    color: var(--footer-text);
+                    background-color: var(--footer-background);
+                    text-decoration: none;
+                }
+            #footer span{
+                color: var(--footer-text);
+                background-color: var(--footer-background);
+                padding: 0 10px 0 10px;
+            }
+            #footer a{
+                background-color: var(--footer-background);
+            }
+                #footer img{
+                    background-color: var(--footer-background);
+                    margin: 0 0 0 10px;
+                    cursor: pointer;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                }
