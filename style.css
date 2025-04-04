@@ -21,6 +21,9 @@
         justify-content: center;
         height: 28px;
     }
+        .textCopy{
+            font-size: 12px;
+        }
         #footer div{
             display: flex;
         }
@@ -28,6 +31,9 @@
                 color: var(--footer-text);
                 background-color: var(--footer-background);
             }
+                #footer div p{
+                    font-size: 12px;
+                }
                 #footer p a{
                     color: var(--footer-text);
                     background-color: var(--footer-background);
@@ -37,13 +43,14 @@
                 color: var(--footer-text);
                 background-color: var(--footer-background);
                 padding: 0 10px 0 10px;
+                font-size: 12px;
             }
             #footer a{
                 background-color: var(--footer-background);
             }
                 #footer img{
                     background-color: var(--footer-background);
-                    margin: 0 0 0 10px;
+                    margin: 0 5px 0 5px;
                     cursor: pointer;
                     display: flex;
                     align-items: center;
