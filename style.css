@@ -7,9 +7,23 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
     background-color: var(--background-universal);
+    font-family: 'Inter', sans-serif;
 }
     /* HEADER */
     header
         header img{
             width: 90px;
+        }
+
+    /* FOOTER */
+    footer
+        .footer-line{
+            color: black;
+        }
+        .footer-text{
+            font-size: 12px;
+        }
+        .footer-links{
+            display: flex;
+            font-size: 12px;
         }
