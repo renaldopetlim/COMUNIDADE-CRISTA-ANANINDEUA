@@ -10,19 +10,12 @@
     font-family: 'Inter', sans-serif;
 }
     /* HEADER */
-    header
-        header img{
-            width: 90px;
-        }
 
     /* FOOTER */
-    .footer-line{
-        color: black;
-    }
+    .footer-line
     footer{
         display: flex;
     }
-
         .footer-text{
             font-size: 12px;
         }
